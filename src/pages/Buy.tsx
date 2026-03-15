@@ -35,6 +35,30 @@ const Buy = () => {
                 <span className="text-muted-foreground text-sm line-through">₹3,999</span>
               </div>
               <p className="text-sm text-muted-foreground">Free shipping across India</p>
+              {/* Cartridge Product */}
+<div className="mt-10 border-t border-border/40 pt-8">
+  <h2 className="font-display text-2xl font-bold mb-4">
+    AOB <span className="text-primary text-glow">Replacement Cartridge</span>
+  </h2>
+
+  <div className="relative flex justify-center my-6">
+    <div className="absolute inset-0 bg-primary/10 rounded-full blur-[70px]" />
+    <img
+      src="/cartridge.png"
+      alt="AOB Cartridge"
+      className="relative w-full max-w-[320px] rounded-xl"
+    />
+  </div>
+
+  <div className="flex items-baseline gap-2 mb-2 justify-center">
+    <span className="font-display text-2xl font-bold text-primary">₹180</span>
+  </div>
+
+  <p className="text-sm text-muted-foreground text-center">
+    Replaceable nanocellulose filter cartridge. Recommended replacement every
+    6 months for best performance.
+  </p>
+</div>
             </motion.div>
 
             {/* Order Form */}
@@ -80,3 +104,10 @@ const Buy = () => {
 };
 
 export default Buy;
+
+
+
+
+
+
+
