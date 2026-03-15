@@ -82,7 +82,7 @@ import member3 from "@/assets/member3.jpeg";
 import member4 from "@/assets/member4.jpeg";
 import member5 from "@/assets/member5.jpeg";
 import member6 from "@/assets/member6.jpeg";
-// import member7 from "@/assets/member7.jpg";
+import member7 from "@/assets/member7.jpeg";
 
 const fadeUp = {
   hidden: { opacity: 0, y: 40 },
@@ -95,12 +95,12 @@ const fadeUp = {
 
 const team = [
   { img: member1, name: "Santanu Das", role: "Co-Founder & Researcher Lead" },
-  { img: member2, name: "Shekhar Suman", role: "Co-Founder & Technical Lead" },
+  { img: member2, name: "Debashmita Paul", role: "Co-Founder & Researcher Lead" },
   { img: member3, name: "Avinash Jha", role: "Co-Founder & Finance Manager" },
   { img: member4, name: "Seema Tasneem", role: "Co-Founder & Human Resource Manager" },
   { img: member5, name: "Shivam Kumar", role: "Co-Founder & Finance Manager" },
-  { img: member6, name: "Shuvashree Das", role: "Co-Founder & Human Resource Manager" },
-  // { img: member7, name: "Member Name", role: "Sustainability Research" },
+  { img: member6, name: "Shekhar Suman", role: "Co-Founder & Technical Lead" },
+  { img: member7, name: "Shuvashree Das", role: "Co-Founder & Human Resource Manager" },
 ];
 
 const About = () => (
