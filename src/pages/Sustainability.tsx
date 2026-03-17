@@ -25,7 +25,7 @@ const Sustainability = () => (
             Building a <span className="text-primary text-glow">Greener Future</span>
           </h1>
           <p className="text-muted-foreground text-lg leading-relaxed">
-            At AlienOnBoard, sustainability isn't an afterthought — it's at the core of everything we design. Here's how we're making air purification environmentally responsible.
+            At AOB, sustainability isn't an afterthought — it's at the core of everything we design. Here's how we're making air purification environmentally responsible.
           </p>
         </motion.div>
 

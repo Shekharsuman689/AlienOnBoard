@@ -94,11 +94,11 @@ const fadeUp = {
 };
 
 const team = [
-  { img: member1, name: "Santanu Das", role: "Co-Founder & Researcher Lead" },
-  { img: member2, name: "Debashmita Paul", role: "Co-Founder & Researcher Lead" },
+  { img: member1, name: "Santanu Das", role: "Co-Founder & Research Head" },
+  { img: member2, name: "Debasmita Paul", role: "Co-Founder & Research Head" },
   { img: member3, name: "Avinash Jha", role: "Co-Founder & Finance Manager" },
   { img: member4, name: "Seema Tasneem", role: "Co-Founder & Human Resource Manager" },
-  { img: member5, name: "Shivam Kumar", role: "Co-Founder & Finance Manager" },
+  { img: member5, name: "Shivam Kumar", role: "Co-Founder & Marketing" },
   { img: member6, name: "Shekhar Suman", role: "Co-Founder & Technical Lead" },
   { img: member7, name: "Shuvashree Das", role: "Co-Founder & Human Resource Manager" },
 ];
@@ -125,14 +125,14 @@ const About = () => (
             </h1>
 
             <p className="text-muted-foreground text-lg leading-relaxed mb-4">
-              AlienOnBoard is built by a passionate team focused on clean air
+              AOB is built by a passionate team focused on clean air
               technology and innovative design. Our goal is to make air
               purification simple, portable, and accessible for everyone.
             </p>
 
             <p className="text-muted-foreground leading-relaxed">
               Each member of our team contributes expertise in technology,
-              design, marketing, and operations to bring the AlienOnBoard
+              design, marketing, and operations to bring the AOB
               vision to life.
             </p>
           </motion.div>

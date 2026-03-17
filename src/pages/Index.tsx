@@ -41,7 +41,7 @@ const Index = () => (
               <span className="text-primary text-glow">Live Better.</span>
             </h1>
             <p className="text-lg text-muted-foreground max-w-lg mb-8 leading-relaxed">
-              AlienOnBoard purifies indoor air by removing dust, pollutants, and allergens through advanced nanocellulose and activated carbon filtration in a sleek, portable design.
+              AOB purifies indoor air by removing dust, pollutants, and allergens through advanced nanocellulose and activated carbon filtration in a sleek, portable design.
             </p>
             <div className="flex gap-4">
               <Button asChild size="lg" className="box-glow hover:box-glow-strong transition-shadow">
